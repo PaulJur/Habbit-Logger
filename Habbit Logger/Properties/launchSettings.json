@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Habbit Logger": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Paulius\\source\\repos\\Habbit Logger\\Habbit Logger"
+    }
+  }
+}
