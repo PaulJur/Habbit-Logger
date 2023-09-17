@@ -13,3 +13,16 @@ You can also check every record from the database.
 
 You can also Delete any Record from the database based on the ID of the record and also Update any record.
 
+Deleting
+
+![VsDebugConsole_qqVPycpqiq](https://github.com/PaulJur/Habbit-Logger/assets/97526083/b594e468-6565-4340-82dc-3112b437c2ca)
+
+![VsDebugConsole_cg5BaRImFA](https://github.com/PaulJur/Habbit-Logger/assets/97526083/8e20afe9-f9ff-46c3-bbd4-04b1f6175cd0)
+
+Updating
+
+![pdRaoTTTsA](https://github.com/PaulJur/Habbit-Logger/assets/97526083/a7d6ee13-08e6-44cf-b798-55fa15247298)
+
+
+![VsDebugConsole_nutU2xLIsO](https://github.com/PaulJur/Habbit-Logger/assets/97526083/2b66ff39-6b06-4fd7-a093-58714e52d928)
+
