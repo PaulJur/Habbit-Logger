@@ -21,8 +21,10 @@ Deleting
 
 Updating
 
-![pdRaoTTTsA](https://github.com/PaulJur/Habbit-Logger/assets/97526083/a7d6ee13-08e6-44cf-b798-55fa15247298)
+![08S2hNr](https://github.com/PaulJur/Habbit-Logger/assets/97526083/9274566b-864f-41b6-bd4d-888b167c5ef1)
 
 
 ![VsDebugConsole_nutU2xLIsO](https://github.com/PaulJur/Habbit-Logger/assets/97526083/2b66ff39-6b06-4fd7-a093-58714e52d928)
 
+
+There are some text and coding issues.
